@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_221" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection0">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection0"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection0"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection0"/>
+      <string>北京</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection1">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection1"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection1"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection1"/>
+      <string>延安</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection2">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection2"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection2"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection2"/>
+      <string>新丰镇</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection3">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection3"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection3"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection3"/>
+      <string>广州</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection4">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection4"/>
+      <int>5</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection4"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection4"/>
+      <string>长沙</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection5">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection5"/>
+      <int>6</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection5"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection5"/>
+      <string>株洲</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection6">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection6"/>
+      <int>7</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection6"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection6"/>
+      <string>怀化</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection7">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection7"/>
+      <int>8</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection7"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection7"/>
+      <string>龙川</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection8">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection8"/>
+      <int>9</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection8"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection8"/>
+      <string>南昌</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection9">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection9"/>
+      <int>10</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection9"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection9"/>
+      <string>向塘</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection10">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection10"/>
+      <int>11</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection10"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection10"/>
+      <string>鹰潭</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection11">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection11"/>
+      <int>12</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection11"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection11"/>
+      <string>福州</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection12">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection12"/>
+      <int>13</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection12"/>
+      <int>5</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection12"/>
+      <string>南宁</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection13">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection13"/>
+      <int>14</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection13"/>
+      <int>5</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection13"/>
+      <string>柳州</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection14">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection14"/>
+      <int>15</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection14"/>
+      <int>6</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection14"/>
+      <string>昆明</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection15">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection15"/>
+      <int>16</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection15"/>
+      <int>7</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection15"/>
+      <string>武汉</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection16">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection16"/>
+      <int>17</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection16"/>
+      <int>7</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection16"/>
+      <string>江岸</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection17">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection17"/>
+      <int>18</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection17"/>
+      <int>7</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection17"/>
+      <string>武昌南</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection18">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection18"/>
+      <int>19</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection18"/>
+      <int>8</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection18"/>
+      <string>成都</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection19">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection19"/>
+      <int>20</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection19"/>
+      <int>8</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection19"/>
+      <string>重庆</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection20">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection20"/>
+      <int>21</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection20"/>
+      <int>9</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection20"/>
+      <string>郑州</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection21">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection21"/>
+      <int>22</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection21"/>
+      <int>9</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection21"/>
+      <string>新乡</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection22">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection22"/>
+      <int>23</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection22"/>
+      <int>10</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection22"/>
+      <string>合肥</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection23">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection23"/>
+      <int>24</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection23"/>
+      <int>10</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection23"/>
+      <string>上海</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection24">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection24"/>
+      <int>25</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection24"/>
+      <int>10</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection24"/>
+      <string>杭州</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection25">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection25"/>
+      <int>26</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection25"/>
+      <int>11</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection25"/>
+      <string>兰州西</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection26">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection26"/>
+      <int>27</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection26"/>
+      <int>11</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection26"/>
+      <string>嘉峪关</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection27">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection27"/>
+      <int>28</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection27"/>
+      <int>12</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection27"/>
+      <string>西宁</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection28">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection28"/>
+      <int>29</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection28"/>
+      <int>13</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection28"/>
+      <string>呼和浩特</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection29">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection29"/>
+      <int>30</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection29"/>
+      <int>13</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection29"/>
+      <string>集宁</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection30">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection30"/>
+      <int>31</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection30"/>
+      <int>13</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection30"/>
+      <string>包头</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection31">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection31"/>
+      <int>32</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection31"/>
+      <int>14</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection31"/>
+      <string>乌鲁木齐</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection32">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection32"/>
+      <int>33</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection32"/>
+      <int>14</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection32"/>
+      <string>哈密</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection33">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection33"/>
+      <int>34</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection33"/>
+      <int>15</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection33"/>
+      <string>青岛</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection34">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection34"/>
+      <int>35</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection34"/>
+      <int>16</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection34"/>
+      <string>太原段</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection35">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection35"/>
+      <int>36</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection35"/>
+      <int>17</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection35"/>
+      <string>南宁南</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSSection" id="LFSSection17">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSSection17"/>
+      <int>37</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>BureauID</string>
+     <void method="set">
+      <object idref="LFSSection17"/>
+      <int>7</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSSection" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSSection17"/>
+      <string>襄阳</string>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,2 @@
+2020-01-11 13:17:33,493 INFO (SpringApplicationAdminMXBeanRegistrar.java:163)- Application shutdown requested.
+2020-01-11 13:17:33,501 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'

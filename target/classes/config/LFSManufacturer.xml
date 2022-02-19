@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_152" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSManufacturer" id="LFSManufacturer0">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSManufacturer" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSManufacturer0"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSManufacturer" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSManufacturer0"/>
+      <string>大连机车车辆有限公司</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mes.lfs.server.service.po.lfs.LFSManufacturer" id="LFSManufacturer1">
+    <void class="com.mes.lfs.server.service.po.lfs.LFSManufacturer" method="getField">
+     <string>ID</string>
+     <void method="set">
+      <object idref="LFSManufacturer1"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="com.mes.lfs.server.service.po.lfs.LFSManufacturer" method="getField">
+     <string>Name</string>
+     <void method="set">
+      <object idref="LFSManufacturer1"/>
+      <string>株洲电力机车有限公司</string>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
